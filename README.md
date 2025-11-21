@@ -62,5 +62,4 @@ If using Streamlit:
 
 ---
 
-# 📂 Project Structure
 
